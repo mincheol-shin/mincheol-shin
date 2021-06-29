@@ -7,7 +7,7 @@
 ### Hello, I'm Mincheol Shin! 
 
 - 🌱 I’m currently learning **Flutter**, **Kotlin**
-- ⚡ I love to drink tea and exercise
+- ⚡ I love to drink tea and exercise.
 - 👯 I'm looking forward to participating in **the new project**.
 
 <br>
