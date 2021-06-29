@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning **Flutter**, **Kotlin**
 - 👯 **I'm waiting to accompany to the new project.**
-- ⚡ I love to drink tea and exercise.
-
+- ⚡ I love to **drink tea and exercise.
+**
 <br>
 <br>
 
